@@ -30,10 +30,11 @@
 **Progress**:
 
 - Learn the importance of the VPC
-- Lean about subnets, route tables, security groups, network gateways, etc
+- Lean about subnets, route tables, security groups, internet gateway, etc
 - Understanding the default VPC
 - Understanding Region and Availability Zone, and their impact
 - Creating custom VPC
+- Launch EC2 instances and connect to then via ssh
 
 **Thoughts**: Creating a custom VPC was challenging. With persistence and perseverance I was able to get it done. I am longer using the default VPC.
 
