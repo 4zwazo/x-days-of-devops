@@ -25,7 +25,7 @@
 
 #### November 8, 2020
 
-**Focus**: The focus today was on Virtual Private Cloud (VPC).
+**Focus**: The focus for today was on Virtual Private Cloud (VPC).
 
 **Progress**:
 
