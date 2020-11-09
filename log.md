@@ -43,3 +43,48 @@
 [Amazon VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)\
 
 ![Custom VPC](images/custom-vpc.jpg)
+
+<hr>
+
+### Day 3 - Foundational & Compute Service
+
+#### November 9, 2020
+
+**Focus**: No better way to start with AWS than EC2. Today the learning focuses on EC2 basics and some of the main features it offers. It also touches on storage, auto scaling and load balancing.
+
+**Progress**:
+
+EC2-Basics:
+
+- Learned how to create EC2 instance
+- Associate the instance with a security group that allows ssh traffic from any IP
+- Create a snapshot of the EBS volume attached to the EC2 Instance
+- Create an AMI using the snapshot
+- Create a new instance using the AMI
+
+Storage:
+
+- Learn about the different storage class
+- Create an EBS volume and attack it to instance
+- Create an EFS filesystem and mount it to instance
+
+S3 and IAM Role:
+
+- Create an S3 bucket
+- Create IAM Role with EC2 Service
+- Attach AmazonS3FullAccess to policy
+- Attach role when creating launch configuration
+
+Auto scaling and Load Balancing
+
+- Create launch configuration (useing ami-03657b56516ab7912)
+- Create autoscaling group using the launch configuration
+- Create target groups
+- Create load balancer and have load balancer serves traffic to the instance
+- Verify you can see webapp from your browser
+
+**Thoughts**: Doing the lab was refreshing and really cement the concept for me. Navigating the console was a bit intimidating at first. With patience and dedication it becomes easier. Taking the time to draw the architecture prior immersing in the labs was instrumental in connecting the dots.
+
+**Work & Resources**:
+
+![EC2](images/day-1-1.png)
