@@ -88,3 +88,30 @@ Auto scaling and Load Balancing
 **Work & Resources**:
 
 ![EC2](images/day-1-1.png)
+
+<hr>
+
+### Day 4 - Foundational & Compute Service
+
+#### November 10, 2020
+
+**Focus**: The learning today was focuses on Lambda. I spent a good amount of time experimenting with the lambda function. I did things such as using the parameter passed to the function to stop and restart the instance. I even played around with API gateway that called the lambda function to bring the intance up/down.
+
+## **Progress**:
+
+- Learn the basic of Lambda
+- Review the concept of lambda function, event source downstream resources, and log stream
+- Create lambda function using the python runtime
+- Creaye IAM roles to give the lambda EC2 and cloudwatch access
+- Code the lambda function to start/stop an EC2 instance
+- Playing around with environment variables
+
+**Thoughts**:
+
+Today working with lambda was fun. I realized there are more to lambda than writing simple functions. It is one area I need to dedicate more time learning.
+
+**Work & Resources**:
+
+[Lambda Function](https://github.com/4zwazo/x-days-of-devops/blob/main/resources/code/lambda/start-start-ec2.py)
+
+![Custom VPC](images/start-stop-ec2-ambda.jpg)
