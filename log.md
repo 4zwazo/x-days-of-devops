@@ -1,6 +1,6 @@
-# Cloud Fundamentals
+<h1 style="color: #4D774E;">Cloud Fundamentals</h1>
 
-### Day 1 - Cloud Computing
+<h2 style="color: #F1B24A;">Day 1 - Cloud Computing<h2>
 
 #### November 7, 2020
 
@@ -21,7 +21,7 @@
 
 <hr>
 
-### Day 2 - Foundational & Compute Service
+<h2 style="color: #F1B24A;">Day 2 - Foundational & Compute Service<h2>
 
 #### November 8, 2020
 
@@ -46,7 +46,7 @@
 
 <hr>
 
-### Day 3 - Foundational & Compute Service
+<h2 style="color: #F1B24A;">Day 3 - Foundational & Compute Service<h2>
 
 #### November 9, 2020
 
@@ -91,7 +91,7 @@ Auto scaling and Load Balancing
 
 <hr>
 
-### Day 4 - Foundational & Compute Service
+<h2 style="color: #F1B24A;">Day 4 - Foundational & Compute Service<h2>
 
 #### November 10, 2020
 
