@@ -1,6 +1,6 @@
-# 100 Days Of DevOps Challenge
+# 100 Days Of Cloud DevOps Challenge
 
-Welcome to my 100 days of DevOps Challenges!
+Welcome to my 100 days of Cloud DevOps Challenges!
 
 On November 7th, 2020 I'm committed one hour, every day, for the next 100 days for DevOps works.
 
