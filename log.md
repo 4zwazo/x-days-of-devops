@@ -118,9 +118,9 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 <hr>
 
-### Day 10 - AWS Management
+### Day 5 - AWS Management
 
-#### November 16, 2020
+#### November 11, 2020
 
 **Focus**: The learning today focused on the AWS Command Line Interface (CLI)
 
@@ -133,5 +133,6 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Thoughts**: Knowing which command to type to accomplish a tasks can be challenging. Reading the CLI documention is your best friend. You just have type experimenting with it. When you finally gets it, documenting somewhere.
 
 **Work & Resources**:\
-[AWS CLI command reference guide](https://docs.aws.amazon.com/cli/latest/reference/)
+[AWS CLI on the Raspberry Pi](https://github.com/4zwazo/x-days-of-devops/blob/main/resources/cli/pi-install.md)\
+[AWS CLI command reference guide](https://docs.aws.amazon.com/cli/latest/reference/)\
 [AWS Command Line Interface (CLI)](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
