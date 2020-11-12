@@ -122,7 +122,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 #### November 11, 2020
 
-**Focus**: The learning today focused on the AWS Command Line Interface (CLI)
+**Focus**: The learning today focused on the AWS Command Line (CLI) Interface
 
 **Progress**:
 
@@ -136,3 +136,24 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [AWS CLI on the Raspberry Pi](https://github.com/4zwazo/x-days-of-devops/blob/main/resources/cli/pi-install.md)\
 [AWS CLI command reference guide](https://docs.aws.amazon.com/cli/latest/reference/)\
 [AWS Command Line Interface (CLI)](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+
+<hr>
+
+### Day 6 - Storage & Content Delivery
+
+#### November 12, 2020
+
+**Focus**: The learning today focused on S3, DynamoDB, RDS, and CloudFront. I focused in making sure I understand the concept well. I have completed all the labs. It was well worth my time.
+
+**Progress**:
+
+- Create a NoSQL database using DynamoDB
+- Create a PostgreSQL database instance using RDS
+- Connect and query the databases
+- Create a S3 bucket and upload a simple web site to the bucket
+- Create a CloudFront distribution for the website
+
+**Thoughts**: The lab makes working with DynamoDB super fun.
+
+**Work & Resources**:
+[Introduction to CloudFront](https://www.qwiklabs.com/focuses/14183?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7804775)
