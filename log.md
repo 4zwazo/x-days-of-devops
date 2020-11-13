@@ -1,5 +1,7 @@
 <h1 style="color: #4D774E;">Cloud Fundamentals</h1>
 
+---
+
 <h2 style="color: #F1B24A;">Day 1 - Cloud Computing<h2>
 
 #### November 7, 2020
@@ -19,7 +21,7 @@
 **Work & Resources**:\
 [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
-<hr>
+---
 
 <h2 style="color: #F1B24A;">Day 2 - Foundational & Compute Service<h2>
 
@@ -44,7 +46,7 @@
 
 ![Custom VPC](images/custom-vpc.jpg)
 
-<hr>
+---
 
 <h2 style="color: #F1B24A;">Day 3 - Foundational & Compute Service<h2>
 
@@ -89,7 +91,7 @@ Auto scaling and Load Balancing
 
 ![EC2](images/day-1-1.png)
 
-<hr>
+---
 
 <h2 style="color: #F1B24A;">Day 4 - Foundational & Compute Service<h2>
 
@@ -116,7 +118,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ![Custom VPC](images/start-stop-ec2-ambda.jpg)
 
-<hr>
+---
 
 ### Day 5 - AWS Management
 
@@ -137,7 +139,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [AWS CLI command reference guide](https://docs.aws.amazon.com/cli/latest/reference/)\
 [AWS Command Line Interface (CLI)](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
 
-<hr>
+---
 
 ### Day 6 - Storage & Content Delivery
 
@@ -157,3 +159,21 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 [Introduction to CloudFront](https://www.qwiklabs.com/focuses/14183?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7804775)
+
+---
+
+### Day 7 - Security
+
+#### November 13, 2020
+
+**Focus**: The learning today was on security. It stressed the needs on applying best practices to keep your environment and the application running in the cloud secured.
+
+## **Progress**:
+
+- Create an IAM policy
+
+**Thoughts** Today I read a few article about security. This is an important topic I need to immerse myself into.
+
+**Work & Resources**:
+
+[AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/aws-security-best-practices.pdf)
