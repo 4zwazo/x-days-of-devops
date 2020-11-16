@@ -177,3 +177,21 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Work & Resources**:
 
 [AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/aws-security-best-practices.pdf)
+
+---
+
+### Day 8 - Messaging & Containers
+
+#### November 14, 2020
+
+**Focus**: The learning today was on SNS, SQS, and ECS.
+
+## **Progress**:
+
+- Create a topic, Subscribe to a topic, and publish message to a topic
+- Playing around with ECS and SQS
+
+**Thoughts**: I had to spend a good chunk of time study SNS. It was a bit challenging getting the concept ingrained in my brain. As always go to the drawing board save the day.
+
+**Work & Resources**:
+![SNS Notification](images/sns.jpg)
