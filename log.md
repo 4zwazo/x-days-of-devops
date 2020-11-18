@@ -195,3 +195,29 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 ![SNS Notification](images/sns.jpg)
+
+---
+
+### Day 9 - AWS Management
+
+#### November 15, 2020
+
+**Focus**: The learning today focused on CloudTrail, CloudWatch, and CloudFormation
+
+**Progress**:
+
+- Create a CloudWatch event to notify via a SNS topic when an EC2 instance created
+- Create a CloudFormation stack using the CloudFormation Designer
+- Launch S3 bucket using Infrastructure as Code
+- Save and deploy a CloudFormation stack
+- View S3 Bucket created by CloudFormation Stack
+
+**Thoughts**: Definitely the best way to get better working in the cloud is to read, create, practice. What do I mean by that? Read and understand the concept, come up with something, draws it, and get your hands dirty and just do it. If you get stuck learn how others did it.
+
+**Work & Resources**:
+[AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+[AWS CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+[AWS CloudTrail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
+[Cloud Formation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+
+![SNS Notification](images/cloudwatch-event.jpg)
