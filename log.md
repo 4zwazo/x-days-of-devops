@@ -221,3 +221,26 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [Cloud Formation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
 
 ![SNS Notification](images/cloudwatch-event.jpg)
+
+---
+
+### Day 10 - AWS Management
+
+#### November 16, 2020
+
+**Focus**: The learning today focused on the AWS Command Line Interface (CLI)
+
+**Progress**:
+
+- Getting the raspberry pi up and running (no GUI)
+- Install the AWS CLI SDK
+- Configure the AWS Command Line Interface (CLI)
+- Playing around with the AWS CLI commands
+
+**Thoughts**: Knowing which command to type to accomplish a tasks can be challenging. Reading the CLI documention is your best friend. You just have type experimenting with it. When you finally gets it, documenting somewhere.
+
+**Work & Resources**:\
+[AWS CLI command reference guide](https://docs.aws.amazon.com/cli/latest/reference/)
+[AWS Command Line Interface (CLI)](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+
+---
