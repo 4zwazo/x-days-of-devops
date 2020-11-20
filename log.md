@@ -267,3 +267,25 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [Setting permissions for website access](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html)
 
 ---
+
+# Deploy Infrastructure as Code
+
+### Day 12 - Getting Started with CloudFormation
+
+#### November 18, 2020
+
+**Focus**: The learning today was focused on DevOps in general.
+
+**Progress**:
+
+- Understanding the problem that DevOops is trying to solve
+- Understanding Infrastructure as Code
+- Understanding Continuous Integration (CI), Continuous Delivery (CD), Continuous Deployment (CD)
+- Getting familiar with DevOps tools such as configuration management tool like (Ansible, etc), deployment tools (Jenkins, Circle CI, etc)
+
+**Thoughts**: It was worth it to take the time to read articles and listen to youtube videos on devops.
+
+**Work & Resources**:\
+[Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+[Integration and Continuous Deployment](https://css-tricks.com/continuous-integration-continuous-deployment/)
+[DevOps Bootcamp](https://www.youtube.com/playlist?list=PLleOCN2eBn8IhLAckXL0BWomad5lrhB8j)

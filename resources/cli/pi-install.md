@@ -68,7 +68,7 @@ aws ec2 describe-instances
 
 ### Things you should know
 
-- The AWS CLI configuration files are located here
+The AWS CLI configuration files are located here
 
 ```
   ~/.aws/credentials #User credentials
