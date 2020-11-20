@@ -244,3 +244,26 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [AWS Command Line Interface (CLI)](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
 
 ---
+
+# Cloud Fundamentals Project
+
+### Day 11 - Deploy Static Website on AWS
+
+#### November 17, 2020
+
+**Focus**: The learning today was to deploy a static web site on AWS.
+
+**Progress**:
+
+- Create an s3 bucket and secures it using IAM Policy
+- Create an A record for the website using Route53
+- Distribute the web site via CloudFront
+
+**Thoughts**: The bucket IAM policy got the best of me. I assumed granted public access to the bucket, all objects within the bucket will have the same permissions automatically. I kept getting access denied and couldn't figure out the reasons for it. As always reading the AWS documentation helped me formulated the solution.
+
+**Work & Resources**:
+[The Travel Blog](travel.sokibi.com)
+[The Travel Blog via CloudFront](d1wq0wh5789j4s.cloudfront.net) <--- Disabled to manage cost>
+[Setting permissions for website access](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html)
+
+---
