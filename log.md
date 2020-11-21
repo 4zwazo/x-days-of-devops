@@ -289,3 +289,27 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 [Integration and Continuous Deployment](https://css-tricks.com/continuous-integration-continuous-deployment/)
 [DevOps Bootcamp](https://www.youtube.com/playlist?list=PLleOCN2eBn8IhLAckXL0BWomad5lrhB8j)
+
+---
+
+### Day 13 - Getting Started with CloudFormation
+
+#### November 19, 2020
+
+**Focus**: The learning today was on getting my hands dirty with the basic of cloud formation.
+
+**Progress**:
+
+- Learned about CloudFormation template and stack of resources
+- Create a YML CloudFormation template
+- Create a VPC Resource
+- Running the template vis the CLI to create the stack
+- Use the CLI to verify the stack created and VPC online
+
+- **Thoughts**: Becoming familiar with the AWS CLI is important. It worth it since this is where I will spend most of my time when working with AWS. The AWS documentation is an indispensable source of knowledge when working with the AWS CLI.
+
+**Work & Resources**:
+[AWS::EC2::VPC](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-vpc.html)
+[AWS resource and property types reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
+[Intrinsic function reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html)
+[Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
