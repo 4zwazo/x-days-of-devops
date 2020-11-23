@@ -313,3 +313,22 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [AWS resource and property types reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
 [Intrinsic function reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html)
 [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+
+---
+
+### Day 14 - Infrastructure Diagrams
+
+#### November 19, 2020
+
+**Focus**: The learning today was on using diagrams to design the cloud environment. One aspect of infrastructure as code is turning the design receives from the architect into code.
+
+**Progress**:
+
+- Create a Lucid Chart Account
+- Setting up a Lucid Chart
+- using the diagrams to create a cloud environment
+
+**Thoughts**: The diagram is an important step before writing the code for the environment. I need to able to see what I am write the code for. The diagram helps you to see where the location of services, subnets, route tables, and others within the cloud environment.
+
+**Work & Resources**:
+![Infrastructure diagram](images/iac-day14.jpeg)
