@@ -320,7 +320,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 #### November 19, 2020
 
-**Focus**: The learning today was on using diagrams to design the cloud environment. One aspect of infrastructure as code is turning the design receives from the architect into code.
+**Focus**: Todays learning focused on Converting business requirements into infrastructure diagrams and understand the principles behind design choices.
 
 **Progress**:
 
@@ -332,3 +332,31 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 ![Infrastructure diagram](images/iac-day14.jpeg)
+
+---
+
+### Day 20, 21 - Reading on cloud Architecture
+
+**Thoughts**: During the past two days I decided to read more on cloud architectures. The goal was to get deeper understanding of what the cloud is all about. To learn things like virtualization, load service and deployment models, serverless, etc.
+
+**Work & Resources**:
+
+[Cloud Computing Solutions Architect](http://www.hands-on-books-series.com/cloud-computing-solutions-architect.html)
+
+---
+
+### Day 15 - Task 1 - Create a diagram that represent a corporate-only cloud
+
+#### November 23, 2020
+
+**Focus**: The focus for today was on creating a hybrid cloud environment.
+
+**Progress**:
+
+- Getting familiar AWS diagrams
+- Using the previous day diagram and tailor it for a hybrid architecture
+
+**Thoughts**: Today's task involve converting the business requirements into infrastructure diagrams. Once I understand the requirements, it was pretty easy to construct the diagram. It would have been more fun if I worked with another person on this project.
+
+**Work & Resources**:
+![On-Premise diagram](images/on-premise-day15.jpeg)
