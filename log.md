@@ -360,3 +360,25 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 ![On-Premise diagram](images/on-premise-day15.jpeg)
+
+---
+
+### Day 16 - Networking Infrastructure
+
+#### November 24, 2020
+
+**Focus**: The focus for today was converting the diagram I worked on Day 14 to code.
+
+**Progress**:
+
+- Create the cloudformation stack which include the VPC
+- Update the stack by adding NET Gatwway, Subnet, and routing
+- create an create.sh and update.sh script for creating and updating the stack
+
+**Thoughts**: Today's task involve converting the infrastructure diagram to code.
+
+**Work & Resources**:
+
+[Intrinsic function reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html
+)
+![Infrastructure diagram](images/diagram-to-code.jpeg)
