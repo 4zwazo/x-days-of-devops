@@ -382,3 +382,24 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [Intrinsic function reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html
 )
 ![Infrastructure diagram](images/diagram-to-code.jpeg)
+
+---
+
+### Day 16 - Servers and Security Groups
+
+#### November 25, 2020
+
+**Focus**: Add the necessary components to start deploying servers, application, etc.
+
+**Progress**:
+
+- Creating the security group
+- Creating autoscaling group and launch configuration
+- Getting familiar and interpreting errors, and steps to fix them
+
+**Thoughts**: It is a joy getting hands-on experience create the code that implements the environment. I purposely made errors in the code that forced me to learn about how cloudformation works. In addition to research and learn what these errors mean.
+
+**Work & Resources**:
+
+[Security Group Rules Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html)
+![Infrastructure diagram](images/diagram-to-code.jpeg)
