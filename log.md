@@ -385,11 +385,11 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ---
 
-### Day 16 - Servers and Security Groups
+### Day 17 - Servers and Security Groups
 
 #### November 25, 2020
 
-**Focus**: Add the necessary components to start deploying servers, application, etc.
+**Focus**: Add the necessary components to start deploying servers, application, etc. This is the continuation of the work completed in day 16
 
 **Progress**:
 
