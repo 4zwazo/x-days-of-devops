@@ -99,7 +99,7 @@ Auto scaling and Load Balancing
 
 **Focus**: The learning today was focuses on Lambda. I spent a good amount of time experimenting with the lambda function. I did things such as using the parameter passed to the function to stop and restart the instance. I even played around with API gateway that called the lambda function to bring the intance up/down.
 
-## **Progress**:
+## **Progress**
 
 - Learn the basic of Lambda
 - Review the concept of lambda function, event source downstream resources, and log stream
@@ -168,7 +168,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Focus**: The learning today was on security. It stressed the needs on applying best practices to keep your environment and the application running in the cloud secured.
 
-## **Progress**:
+## **Progress**
 
 - Create an IAM policy
 
@@ -186,7 +186,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Focus**: The learning today was on SNS, SQS, and ECS.
 
-## **Progress**:
+## **Progress**
 
 - Create a topic, Subscribe to a topic, and publish message to a topic
 - Playing around with ECS and SQS
@@ -403,3 +403,24 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 [Security Group Rules Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html)
 ![Infrastructure diagram](images/diagram-to-code.jpeg)
+
+---
+
+### Day 18 - Servers and Security Groups
+
+#### November 30, 2020
+
+**Focus**: Practice creating environment using cloudformation
+
+**Progress**:
+
+- Creating the network infrastructure
+- Secure the infrastructure
+- Creating EC2 instance
+- Deplay an application
+
+**Thoughts**: This just to practice and build confidence.
+
+**Work & Resources**:
+
+- N/A
