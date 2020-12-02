@@ -424,3 +424,21 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Work & Resources**:
 
 - N/A
+
+---
+
+### Day 19 - Storage and Databases
+
+#### December 01, 2020
+
+**Focus**: Adding RDS Database to the infrastructure
+
+**Progress**:
+
+- Create an MySQL database
+- Configure the database for replication
+- Connecting to the database
+
+**Thoughts**: Setting up the database to prevemt single point of failures makes the environment more robust. Today's learning really stressed that point. Also adding the database in the private subnet provide additional security that prevent unauthorize access to teh data.
+
+**Work & Resources**:
