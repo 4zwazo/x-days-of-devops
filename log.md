@@ -442,3 +442,22 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Thoughts**: Setting up the database to prevemt single point of failures makes the environment more robust. Today's learning really stressed that point. Also adding the database in the private subnet provide additional security that prevent unauthorize access to teh data.
 
 **Work & Resources**:
+
+---
+
+## Day 20 - Reviewing CloudFormation
+
+#### December 05, 2020
+
+**Focus**: Reviewing what I have learned from the past few days
+
+**Progress**:
+
+- Creating VPC
+- Creating Internet Gaway
+- Creating Subnets
+- Creating Route and Route Tables
+
+**Thoughts**: The goal here is to review the learniing and practice what i have learned over the pass several days.
+
+**Work & Resources**:
