@@ -445,7 +445,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ---
 
-## Day 20 - Reviewing CloudFormation
+## Day 20 - Task 1 - Convert diagram's infrastructure to code
 
 #### December 05, 2020
 
@@ -461,3 +461,4 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Thoughts**: The goal here is to review the learniing and practice what i have learned over the pass several days.
 
 **Work & Resources**:
+![Infrastructure diagram](images/task1.png)
