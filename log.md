@@ -462,3 +462,23 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 ![Infrastructure diagram](images/task1.png)
+
+---
+
+## Day 21 - Task 1 - Convert diagram's infrastructure to code
+
+#### December 06, 2020
+
+**Focus**: completed the code for the networking part of day 20
+
+**Progress**:
+
+- Creating the NAT gateway
+- Creating the Private Route table
+- Attaching Route table to subnets
+
+**Thoughts**: The goal here is to review the learniing and practice what i have learned over the pass several days.
+
+**Work & Resources**:
+
+[Infrastructure](code/cloud-fromation/task01/infrastructure.yml)
