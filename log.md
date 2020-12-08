@@ -268,7 +268,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ---
 
-# Deploy Infrastructure as Code
+# Deployment Infrastructure as Code
 
 ### Day 12 - Getting Started with CloudFormation
 
@@ -449,7 +449,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 #### December 05, 2020
 
-**Focus**: Reviewing what I have learned from the past few days
+**Focus**: Reviewing what I have learned from the past few days. Now deploying an Amazon RDS database in a single AZ.
 
 **Progress**:
 
@@ -481,4 +481,20 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 
-[Infrastructure](code/cloud-fromation/task01/infrastructure.yml)
+---
+
+## Day 22 - Task 1 - Convert diagram's infrastructure to code
+
+#### December 07, 2020
+
+**Focus**: adding an RDS MySQL database and redraw the infrastructure diagram. The work involve deploying an Amazon RDS database in a single AZ.
+
+**Progress**:
+
+- Create DB subnet group
+- Create RDS DB instance
+
+**Thoughts**: I learned an important lesson today. No matter how much you read, you don't know you know until you create something to practice what you have learned. Here is the story. I spent hours trying to create the MySql RDS instance in the diagram (Day 20). It wouldn't work. It turns the diagram is missing a few pieces. RDS needs at least two subnets in two availability zones. One subnet for the primary and the other for the replicated database. To solve my problem the design needs an additional AZ and at least one subnet.
+
+**Work & Resources**:
+![Infrastructure diagram](images/task1-2.png)
