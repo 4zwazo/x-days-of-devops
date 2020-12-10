@@ -513,7 +513,10 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Adding code for the additional subnet
 - Adding/revising codes dor the RDS instance
 
-**Thoughts**: The final infrastructure is not optimal. But the point of this exercise is to simply practice writing cloudformation code and understand the technology a bit deeper.
+**Thoughts**: The final infrastructure is not optimal. But the point of this exercise is to simply practice writing cloudformation codes and understand the technology a bit deeper.
 
 **Work & Resources**:
-![Infrastructure diagram](images/task1-3.png)
+
+[Infrastructure YML file](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-formation/task01/infrastructure.yml)
+
+[Servers YML file](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-formation/task01/servers.yml)
