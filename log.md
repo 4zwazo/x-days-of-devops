@@ -498,3 +498,22 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 ![Infrastructure diagram](images/task1-2.png)
+
+---
+
+## Day 25 - Task 1 - Convert diagram's infrastructure to code
+
+#### December 10, 2020
+
+**Focus**: Completed the coding for the RDS part of the task
+
+**Progress**:
+
+- Adding/revising codes for the DB subnet group
+- Adding code for the additional subnet
+- Adding/revising codes dor the RDS instance
+
+**Thoughts**: The final infrastructure is not optimal. But the point of this exercise is to simply practice writing cloudformation code and understand the technology a bit deeper.
+
+**Work & Resources**:
+![Infrastructure diagram](images/task1-3.png)
