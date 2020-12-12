@@ -520,3 +520,29 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [Infrastructure YML file](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-formation/task01/infrastructure.yml)
 
 [Servers YML file](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-formation/task01/servers.yml)
+
+---
+
+# Project
+
+---
+
+## Day 26 - Deploy a high-availability web app using CloudFormation
+
+#### December 11, 2020
+
+**Focus**: Creating architecture diagram
+
+**Progress**:
+
+- Create architecture diagram based on the project requirements
+- Create repo for the project
+- Push initial version to github
+
+**Thoughts**: Creating the diagram takes a bit of time than anticipated.
+
+**Work & Resources**:
+
+[Project Repository](https://github.com/pascallaurent/landscaping)
+
+![Architecture diagram](images/web-app.png)
