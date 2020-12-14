@@ -546,3 +546,22 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [Project Repository](https://github.com/pascallaurent/landscaping)
 
 ![Architecture diagram](images/web-app.png)
+
+---
+
+## Day 27 - Deploy a high-availability web app using CloudFormation
+
+#### December 12, 2020
+
+**Focus**: Start coding the infrastructure
+
+**Progress**:
+
+- Code network components
+- Code the load balancer and Launch configuration
+- Code the bastion host
+
+**Thoughts**: Today I spent a production 1+ hours working on coding the infratrcuture. Getting all the pieces to connect can be challenging sometimes. My best option when I can't seem to figure things out is the drawing board. Well today the drawing board has saved some headache while working on the route tables.
+
+**Work & Resources**:
+[Project Repository](https://github.com/pascallaurent/landscaping)
