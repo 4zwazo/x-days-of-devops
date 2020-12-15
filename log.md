@@ -565,3 +565,21 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 [Project Repository](https://github.com/pascallaurent/landscaping)
+
+---
+
+## Day 27 - Elastic load balacer and auto scaling
+
+#### December 13, 2020
+
+**Focus**: Playing aroung with load balacing and auto scaling
+
+**Progress**:
+
+- Create an application load balancer and Launch configuration
+- Create IAM policy
+- Launch a basic web application
+
+**Thoughts**: Taking the day to practice creating high-availability architecture
+
+**Work & Resources**:
