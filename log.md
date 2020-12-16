@@ -568,7 +568,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ---
 
-## Day 27 - Elastic load balacer and auto scaling
+## Day 28- Elastic load balacer and auto scaling
 
 #### December 13, 2020
 
@@ -586,7 +586,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ---
 
-## Day 27 - Completed the project
+## Day 29 - Completed the project
 
 #### December 13, 2020
 
