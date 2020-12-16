@@ -583,3 +583,25 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Thoughts**: Taking the day to practice creating high-availability architecture
 
 **Work & Resources**:
+
+---
+
+## Day 27 - Completed the project
+
+#### December 13, 2020
+
+**Focus**: Completed the deployemnt of the landscaping project
+
+**Progress**:
+
+- Creating Create Role, Policy, and profile
+- Troubleshooting security group settings that prevent the app render in the browser
+- Clean the code
+
+**Thoughts**: The focus today was on completing the 2nd project
+
+**Work & Resources**:
+
+[Project Repository](https://github.com/pascallaurent/landscaping)
+
+![Architecture diagram](images/web-app.png)
