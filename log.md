@@ -588,7 +588,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ## Day 29 - Completed the project
 
-#### December 13, 2020
+#### December 14, 2020
 
 **Focus**: Completed the deployemnt of the landscaping project
 
@@ -605,3 +605,27 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 [Project Repository](https://github.com/pascallaurent/landscaping)
 
 ![Architecture diagram](images/web-app.png)
+
+---
+
+# Build CI/CD Pipelines, Monitoring & Logging
+
+---
+
+## Day 30 - Continuous Integration and Continuous Deployment
+
+#### December 17, 2020
+
+**Focus**: Understanding CI/CD Pipelines, Monitoring, and Logging and getting our environment.
+
+**Progress**:
+
+- Learn about the building blocks of development, monitoring, and deployment
+- Create infrastructure using cloud formation to practice devops related works
+- Create IAM policies, group, and devops accounts
+
+**Thoughts**: Today's learning focuses on a number of topics, such as the importance of CI/CD Pipilines during the development and deployment phase (using Jenkins), on creating environment using Ansible, and monitoring/maintaining the infrastructure using tools like Prometheus and ELK.
+
+**Work & Resources**:
+
+![Devops environment](images/devops.png)
