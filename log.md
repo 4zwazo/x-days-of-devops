@@ -629,3 +629,25 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Work & Resources**:
 
 ![Devops environment](images/devops.png)
+
+---
+
+## Day 31 - Getting Jenkins up and running
+
+#### December 18, 2020
+
+**Focus**: Getting Jenkins up and running
+
+**Progress**:
+
+- Getting the EC2 instance Jenkins server running
+- Installing the Nginx server
+- Configure Nginx as a proxy to access Jenkins HTTP requests
+- Installing the Blueocean plugin
+
+**Thoughts**: Today's lesson was pretty cool. Configured the Nginx server was a bit challenging. I need to educate myself more about Nginx. It could have been easier with Apache. I am glab I went along with Nginx.
+
+**Work & Resources**:
+
+[Jenkins Installation documentation](resources/code/nginx/install.md)
+---
