@@ -650,4 +650,22 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 **Work & Resources**:
 
 [Jenkins Installation documentation](resources/code/nginx/install.md)
+
 ---
+
+## Day 31 - What is this CI/CD stuff all about
+
+#### December 19, 2020
+
+**Focus**: Understanding how the delivery of software works
+
+**Progress**:
+
+- Read and understand what Continuous integration is
+- Read and understand the difference between Continuous Delivery and Deployment
+- Read and understand Jenkins roles in CI/CD
+
+**Thoughts**: Often times we are learning new technologies without taking the time to understand and masticate the concepts. These pieces of technologies are there to help us solve problems. So this is what i decided to do this morning. Hit the brakes, use my one hour, and read stories on CI/CD.
+
+**Work & Resources**:
+N/A
