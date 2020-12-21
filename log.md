@@ -653,7 +653,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 ---
 
-## Day 31 - What is this CI/CD stuff all about
+## Day 32 - What is this CI/CD stuff all about
 
 #### December 19, 2020
 
@@ -669,3 +669,24 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 **Work & Resources**:
 N/A
+
+---
+
+## Day 33 - Continuous Integration and Continuous Deployment Strategies
+
+#### December 20, 2020
+
+**Focus**: Configure Jenkins to talk to S3 and github
+
+**Progress**:
+
+- Install AWS Steps plugin
+- Create github repo
+- Create new pipeline using Blue Ocean
+
+**Thoughts** The project I worked on today involved creating a pipeline that monitors a github repo for file, takes the file and uploaded it to a S3 bucket. The challenging part is configured Jenjins to do the work. I had to do the project a few times to really understand and grasp the concept. As always hands-on learning is surely the way to go about doing it
+-
+
+**Work & Resources**:
+
+[From Github to jenkins to S3](https://github.com/pascallaurent/s3_jenkins_devops)
