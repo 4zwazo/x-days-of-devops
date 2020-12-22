@@ -690,3 +690,24 @@ N/A
 **Work & Resources**:
 
 [From Github to jenkins to S3](https://github.com/pascallaurent/s3_jenkins_devops)
+
+---
+
+## Day 33 - Continuous Integration and Continuous Deployment Strategies
+
+#### December 21, 2020
+
+**Focus**: Build a Jenkins pipeline to upload a file to S3
+
+**Progress**:
+
+- Adding different stage to the pipeline
+- Testing to make sure pipeline works as expected
+- Troubleshotting S3 related issues
+
+**Thoughts** Today's learning was pretty fun. It was great to see how the pipeline transition from stage to stage during deployment and delivery process. One issue I had to deal with is S3. The Upload to S3 stage kept failing even though the file uploaded accordingly. This is sometthing I need to continue working on to fix
+-
+
+**Work & Resources**:
+
+[From Github to jenkins to S3](https://github.com/pascallaurent/s3_jenkins_devops)
