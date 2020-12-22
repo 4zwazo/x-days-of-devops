@@ -685,7 +685,7 @@ N/A
 - Create new pipeline using Blue Ocean
 
 **Thoughts** The project I worked on today involved creating a pipeline that monitors a github repo for file, takes the file and uploaded it to a S3 bucket. The challenging part is configured Jenjins to do the work. I had to do the project a few times to really understand and grasp the concept. As always hands-on learning is surely the way to go about doing it
--
+-Jenkins
 
 **Work & Resources**:
 
@@ -705,8 +705,7 @@ N/A
 - Testing to make sure pipeline works as expected
 - Troubleshotting S3 related issues
 
-**Thoughts** Today's learning was pretty fun. It was great to see how the pipeline transition from stage to stage during deployment and delivery process. One issue I had to deal with is S3. The Upload to S3 stage kept failing even though the file uploaded accordingly. This is sometthing I need to continue working on to fix
--
+**Thoughts** Today's learning was pretty fun. It was great to see how the pipeline transition from stage to stage during deployment and delivery process. One issue I had to deal with is S3. The Upload to S3 stage kept failing even though the file uploaded accordingly. This is something I need to continue working on to fix
 
 **Work & Resources**:
 
@@ -729,8 +728,10 @@ N/A
 - Pipeline code for performing the Tidy check
 - Add pipeline code to upload file to S3
 
-**Thoughts** Decided to do additional practice to ciment the learning
+**Thoughts** Decided to do additional practice to cement the learning
 
 **Work & Resources**:
 
 [Hello World Pipeline](https://github.com/pascallaurent/Hello_World_Pipeline)
+
+![Hello World Pipeline](images/hello-world-pipeline.png)
