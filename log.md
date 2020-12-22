@@ -693,7 +693,7 @@ N/A
 
 ---
 
-## Day 33 - Continuous Integration and Continuous Deployment Strategies
+## Day 34 - Continuous Integration and Continuous Deployment Strategies
 
 #### December 21, 2020
 
@@ -711,3 +711,26 @@ N/A
 **Work & Resources**:
 
 [From Github to jenkins to S3](https://github.com/pascallaurent/s3_jenkins_devops)
+
+---
+
+## Day 35 - Continuous Integration and Continuous Deployment Strategies
+
+#### December 22, 2020
+
+**Focus**: Doing some practice exercises
+
+**Progress**:
+
+- Install Jenkins plugin AWS CodePipeline.
+- Set up AWS credentials with access key and secret access key
+- Create a S3 bucket
+- Set up a pipeline
+- Pipeline code for performing the Tidy check
+- Add pipeline code to upload file to S3
+
+**Thoughts** Decided to do additional practice to ciment the learning
+
+**Work & Resources**:
+
+[Hello World Pipeline](https://github.com/pascallaurent/Hello_World_Pipeline)
