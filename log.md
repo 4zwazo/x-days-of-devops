@@ -735,3 +735,39 @@ N/A
 [Hello World Pipeline](https://github.com/pascallaurent/Hello_World_Pipeline)
 
 ![Hello World Pipeline](images/hello-world-pipeline.png)
+
+---
+
+## Day 36- Ansible: what and why
+
+#### December 23, 2020
+
+**Focus**: Understanding what ansible is and why
+
+**Progress**:
+
+- An IT automation engine
+- Configuration management, Provisioning, Application Deployment, and Orchestration
+- Simple, Agentless, secured, and powerful
+- Efficient, Open source, and flexible
+- Control node and Managed node
+
+**Thoughts** My one hour learning is spent on reading whatc Ansible is all about and how it works.
+
+**Work & Resources**:
+
+![How ansible works](images/ansible.png)
+
+---
+
+## Day XX - Subject
+
+#### Month XX, 0000
+
+**Focus**:
+
+**Progress**:
+
+**Thoughts**
+
+**Work & Resources**:
