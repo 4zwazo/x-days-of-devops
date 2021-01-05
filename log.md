@@ -760,11 +760,11 @@ N/A
 
 ---
 
-## Day 37 - Prepare Ansible environment
+## Day 37 - Prepare Ansible Control Node environment
 
 #### January 5, 2021
 
-**Focus**: Prepare the Ansible environment
+**Focus**: Prepare the Ansible control node environment
 
 **Progress**
 
