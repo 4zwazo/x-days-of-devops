@@ -760,6 +760,26 @@ N/A
 
 ---
 
+## Day 37 - Prepare Ansible environment
+
+#### January 5, 2021
+
+**Focus**: Prepare the Ansible environment
+
+**Progress**
+
+- Setup the Control Node using an Ec2 Instance (RedHat)
+- Chnage host name
+- Create ansadmin user and Add user to sudoer
+- Create SSH key
+- Enabled Password Basecd authentication
+
+**Thoughts** My one hour today focuses on getting the environment ready for ansible. It involves lots of manual configurations on the RedHat server.
+
+**Work & Resources**:
+
+---
+
 ## Day XX - Subject
 
 #### Month XX, 0000
