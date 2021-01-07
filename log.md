@@ -797,7 +797,7 @@ N/A
 **Thoughts** My one hour is spent on seeting up the managed node and making sure the control node can communicate with it.
 
 **Work & Resources**:
-[]()
+[Ansible environment](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/ansible)
 
 ---
 
