@@ -780,6 +780,27 @@ N/A
 
 ---
 
+## Day 38 - Prepare Ansible Managed Node environment
+
+#### January 6,  2021
+
+**Focus**: Prepare managed node on RedHat Linux, installing ansible, setup SSH, and issuing ad-hoc commands
+
+**Progress**:
+
+- Setting up the managed node
+- Installing Ansible on the control node EC2 instance
+- Setup Ansible configuration file
+- Setup the nodes for password less configuration
+- Issuing ad-hoc command
+
+**Thoughts** My one hour is spent on seeting up the managed node and making sure the control node can communicate with it.
+
+**Work & Resources**:
+[]()
+
+---
+
 ## Day XX - Subject
 
 #### Month XX, 0000
