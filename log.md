@@ -801,6 +801,24 @@ N/A
 
 ---
 
+## Day 39 - Ansible Inventory and ad-hoc commands
+
+#### January 7,  2021
+
+**Focus**: running ad-hoc commands and playing with ansible inventory
+
+**Progress**
+
+- Running more ad-hoc commands
+- Create inventory file
+- Create inventory groups
+
+**Thoughts** It super amazing how ansible makes it easy to control managed node. I have a blast playing around with ansible issuing remote commands.
+
+**Work & Resources**
+[Ansible environment](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/ansible/docs)
+---
+
 ## Day XX - Subject
 
 #### Month XX, 0000
