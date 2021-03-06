@@ -817,6 +817,27 @@ N/A
 
 **Work & Resources**
 [Ansible environment](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/ansible/docs)
+
+---
+
+## Day 40 - Continue with my DevOps learning
+
+#### March 6,  2021
+
+**Focus**: Re-focus on ansible after a long pause.
+
+**Progress**
+
+- setup 3 headless raspberry pi as my lab to practice ansible
+- Installing Ansible in control node
+- configure control node to connect to managed node
+- Run ansible ping command from control to managed nodes
+
+**Thoughts** For the past few weeks I was working on a major upgrade which prevented me from focusing on my devops journey. The goal is learning not too rush. I put it aside for while. Now I am back. I switch to raspberry pi due to its cost saving. It was also fun to work on this lab. For this project I used 3 rapsberry pi zero.
+
+**Work & Resources**
+![How ansible works](images/ansible-pi.png)
+
 ---
 
 ## Day XX - Subject
