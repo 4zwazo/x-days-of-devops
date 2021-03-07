@@ -1,4 +1,4 @@
-## Ansible command patters
+## Ansible command patterns
 
 ```ansible [pattern] -m [module] -a "[module option]"```
 
