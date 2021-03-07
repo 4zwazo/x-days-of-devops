@@ -1,16 +1,13 @@
 ## Ansible inventory
 
 - Default localtion: /etc/ansible/host
-- ansible -i my-host
-- ansible.cfg
 
 ## Create inventory file
 
-- touch $HOME/host
-- edit host add the managed node IP
-- ansible all -m command -a "pwd" -i host
+- touch $HOME/hosts
+- edit the host and add the managed node IP
 
-## Create inventory groups
+## Create groups
 
 - edit $HOME/host
 - create group
@@ -20,4 +17,12 @@
   [mail]
   <mail server ip address>
 
-- ansible app -m command -a "pwd" -i host
+## Running group commands
+
+### ping all the nodes on the host file
+
+```ansible all -m ping -i hosts```
+
+### run the pwd command on the pizero's nodes
+
+```ansible pizero -m command -a "pwd" -i hosts```
