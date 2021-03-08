@@ -1,8 +1,11 @@
-<h1 style="color: #4D774E;">Cloud Fundamentals</h1>
+
+# Cloud DevOps Engineer
+
+## Cloud Fundamentals
 
 ---
 
-<h2 style="color: #F1B24A;">Day 1 - Cloud Computing<h2>
+### Cloud ServicesDay 1 - Cloud Computing
 
 #### November 7, 2020
 
@@ -23,7 +26,7 @@
 
 ---
 
-<h2 style="color: #F1B24A;">Day 2 - Foundational & Compute Service<h2>
+### Day 2 - Foundational & Compute Service
 
 #### November 8, 2020
 
@@ -48,7 +51,7 @@
 
 ---
 
-<h2 style="color: #F1B24A;">Day 3 - Foundational & Compute Service<h2>
+### Day 3 - Foundational & Compute Service<h2>
 
 #### November 9, 2020
 
@@ -837,6 +840,28 @@ N/A
 
 **Work & Resources**
 ![How ansible works](images/ansible-pi.png)
+
+---
+
+## Day 41 - Ansible components
+
+#### Month March 7, 2021
+
+**Focus**: Today's learning focuses on ansible inventory, modules, and how to execute ad-hoc commands
+
+**Progress**:
+
+- Using various ansible modules to communicate with managed nodes
+- Understanding enventory and how to create groups
+- Working with custom and default inventory file
+
+**Thoughts**: It was pretty fun learning the different ways to work with inventory files. I fast foroward a bit, reading the document and translate playbook tasks into ad-hoc commands. That was pretty cool.
+
+**Work & Resources:**
+
+[ad hoc commands](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/5-ad-hoc-commands.md)
+
+[inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/6-inventory.md)
 
 ---
 
