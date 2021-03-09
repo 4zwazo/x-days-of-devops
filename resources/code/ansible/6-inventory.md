@@ -9,6 +9,7 @@
 
 ## Create groups
 
+```
 - edit $HOME/host
 - create group
   [app]
@@ -16,6 +17,7 @@
 
   [mail]
   <mail server ip address>
+```
 
 ## Running group commands
 
