@@ -865,14 +865,20 @@ N/A
 
 ---
 
-## Day XX - Subject
+## Day 41 - Ansible playbooks
 
-#### Month XX, 0000
+#### Month March 8, 2021
 
-**Focus**:
+**Focus**: The learning today focused on ansible playhook
 
 **Progress**:
 
-**Thoughts**
+- convert an ad-hoc command to a playbook
+- executed the playbook
+- understanding ansible playbook Output from the command line
 
-**Work & Resources**:
+**Thoughts**: Today was another fun day experimenting with playbook.
+
+**Work & Resources:**
+
+[inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/7-playbook.md)
