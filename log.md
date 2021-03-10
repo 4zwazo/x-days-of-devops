@@ -882,3 +882,24 @@ N/A
 **Work & Resources:**
 
 [inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/7-playbook.md)
+
+---
+
+# Day 42 - Ansible module
+
+#### Month March 8, 2021
+
+**Focus**: The learning today focused on ansible module
+
+**Progress**:
+
+- Using modules to create an ansible playbook
+- The different ways run an ansible playhook from the command line
+- create playbooks to install packages
+- Create playbook to copy, create, and delete files/directories
+
+**Thoughts**:
+
+**Work & Resources:**: Today was a hands-on learning day. I got to experiment with several andible models. The ansible documentation is super helpful. Each module has lots of examples following brief description of what the module does. It was super fun playing with ansible.
+
+[inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/8-modules.md)
