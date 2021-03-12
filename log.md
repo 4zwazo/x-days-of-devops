@@ -887,7 +887,7 @@ N/A
 
 # Day 42 - Ansible module
 
-#### Month March 8, 2021
+#### Month March 9, 2021
 
 **Focus**: The learning today focused on ansible module
 
@@ -903,3 +903,41 @@ N/A
 **Work & Resources:**: Today was a hands-on learning day. I got to experiment with several andible models. The ansible documentation is super helpful. Each module has lots of examples following brief description of what the module does. It was super fun playing with ansible.
 
 [inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/8-modules.md)
+
+---
+
+# Day 42 - Multitask Ansible Playbooks
+
+#### Month March 10, 2021
+
+**Focus**: How to run multiple tasks in playbook
+
+**Progress**:
+
+- Create multiple tasks to install/start/stop/remove the lighttpd server
+- create a custom ansible.cfg configuration file
+
+**Thoughts**:
+
+**Work & Resources:**: Today's learning was pretty short. I have already include multiple tasks on previous days. Reviewing it again help cement certain concepts i didn't understand.
+
+[inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/9-multitasks.md)
+
+---
+
+# Day 43 - Multitask Ansible Playbooks
+
+#### Month March 12, 2021
+
+**Focus**: How to run multiple tasks in playbook
+
+**Progress**:
+
+- Create multiple tasks to install/start/stop/remove the lighttpd server
+- create a custom ansible.cfg configuration file
+
+**Thoughts**:
+
+**Work & Resources:**: Today's learning was pretty short. I have already include multiple tasks on previous days. Reviewing it again help cement certain concepts i didn't understand.
+
+[inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/9-multitasks.md)
