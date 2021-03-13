@@ -925,19 +925,22 @@ N/A
 
 ---
 
-# Day 43 - Multitask Ansible Playbooks
+# Day 43 - Ansible notify and handlers, and when conditionals
 
 #### Month March 12, 2021
 
-**Focus**: How to run multiple tasks in playbook
+**Focus**: Today's learning focuses on notify and handlers, and using teh when conditionals
 
 **Progress**:
 
-- Create multiple tasks to install/start/stop/remove the lighttpd server
-- create a custom ansible.cfg configuration file
+- Using notify and handlers
+- Set  facther_facts=no to disable gathering of node information before executing tasks
+- Using the when conditionals
 
-**Thoughts**:
+**Thoughts**: What so cool about hands-on learning is the fact you are doing it and see the instantaneously.
 
-**Work & Resources:**: Today's learning was pretty short. I have already include multiple tasks on previous days. Reviewing it again help cement certain concepts i didn't understand.
+**Work & Resources:**:
 
-[inventory](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/9-multitasks.md)
+[notify and handlers](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/10-notify-handlers.md)
+
+[when](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/11-when.md)
