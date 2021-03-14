@@ -937,10 +937,42 @@ N/A
 - Set  facther_facts=no to disable gathering of node information before executing tasks
 - Using the when conditionals
 
-**Thoughts**: What so cool about hands-on learning is the fact you are doing it and see the instantaneously.
+**Thoughts**: What so cool about hands-on learning is the fact you are doing it and see the results instantaneously.
 
 **Work & Resources:**:
 
 [notify and handlers](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/10-notify-handlers.md)
 
 [when](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/11-when.md)
+
+---
+
+# Day 43 - Ansible variables
+
+#### Month March 13, 2021
+
+**Focus**: The learning today focused on using variables with ansible playbooks
+
+**Progress**:
+- Define variables in the playbook
+- Passing variables from external files
+- Passing variables while running playbook
+
+**Thoughts**: This was short lesson, but very important.
+
+**Work & Resources:**:
+[Ansible variables](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/12-variables/md)
+
+---
+
+# Day XX - Title
+
+#### Month Month XX, 2021
+
+**Focus**:
+
+**Progress**:
+
+**Thoughts**:
+
+**Work & Resources:**:
