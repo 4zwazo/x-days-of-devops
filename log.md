@@ -954,6 +954,7 @@ N/A
 **Focus**: The learning today focused on using variables with ansible playbooks
 
 **Progress**:
+
 - Define variables in the playbook
 - Passing variables from external files
 - Passing variables while running playbook
@@ -962,6 +963,25 @@ N/A
 
 **Work & Resources:**:
 [Ansible variables](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/12-variables/md)
+
+---
+
+# Day March 14 - Using tags and handling errors
+
+#### Month Month XX, 2021
+
+**Focus**: The focus today is on using tags and ignore errors
+
+**Progress**:
+
+- How to use tags in playbook
+- Using ignore_errors
+
+**Thoughts**: Tags make playbooks more dynamic. If an error occurred while the playbook is executing, errors can be ignored and the process continues.
+
+**Work & Resources:**:
+
+[Ansible Tags](<https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/>
 
 ---
 
