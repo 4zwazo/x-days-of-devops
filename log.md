@@ -966,9 +966,9 @@ N/A
 
 ---
 
-# Day March 14 - Using tags and handling errors
+# Day 44 - Using tags and handling errors
 
-#### Month Month XX, 2021
+#### Month March 14, 2021
 
 **Focus**: The focus today is on using tags and ignore errors
 
