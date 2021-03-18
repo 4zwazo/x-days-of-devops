@@ -985,14 +985,18 @@ N/A
 
 ---
 
-# Day XX - Title
+# Day 45 - Vault and Roles
 
-#### Month Month XX, 2021
+#### Month Month 15, 2021
 
-**Focus**:
+**Focus**: The focus today was on vault and roles
 
 **Progress**:
 
-**Thoughts**:
+- Encrypt and decrypt passwords using ansible vault
+- using encrypted password in playbook
+- convert playbook to roles
+
+**Thoughts**:Today learning was pretty cool. Using roles make the automation procerss more cleaner. You have the ability to reuse existing playbooks.
 
 **Work & Resources:**:
