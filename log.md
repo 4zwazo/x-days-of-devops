@@ -987,7 +987,7 @@ N/A
 
 # Day 45 - Vault and Roles
 
-#### Month Month 15, 2021
+#### Month March 15, 2021
 
 **Focus**: The focus today was on vault and roles
 
@@ -997,6 +997,24 @@ N/A
 - using encrypted password in playbook
 - convert playbook to roles
 
-**Thoughts**:Today learning was pretty cool. Using roles make the automation procerss more cleaner. You have the ability to reuse existing playbooks.
+**Thoughts**:Today learning was pretty cool. I mostly play around with ansible roles. It surely makes the automation procerss more cleaner.
+
+**Work & Resources:**:
+
+---
+
+# Day 45 - Reviewing before moving on to Monitoring
+
+#### Month March 21, 2021
+
+**Focus**: Taking all the stuff I have leanred over the past few days and worked on a small project. I uding role to install lighttpd on both debian and redhat variants.
+
+**Progress**:
+
+- Create ansible role
+- Adding Fedora Linux to the ansible lab
+- configured Fedora Linux as a managed node
+
+**Thoughts**: Working on a small project that serves as a review for what I have learned over the past few days. Now I am ready to move on to monitoring.1
 
 **Work & Resources:**:
