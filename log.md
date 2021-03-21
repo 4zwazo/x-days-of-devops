@@ -1018,3 +1018,5 @@ N/A
 **Thoughts**: Working on a small project that serves as a review for what I have learned over the past few days. Now I am ready to move on to monitoring.1
 
 **Work & Resources:**:
+![How ansible works](images/ansible-arch.jpg
+)
