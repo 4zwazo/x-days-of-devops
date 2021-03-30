@@ -980,7 +980,6 @@ N/A
 **Thoughts**: Tags make playbooks more dynamic. If an error occurred while the playbook is executing, errors can be ignored and the process continues.
 
 **Work & Resources:**:
-
 [Ansible Tags](<https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/>
 
 ---
@@ -1003,11 +1002,11 @@ N/A
 
 ---
 
-# Day 45 - Reviewing before moving on to Monitoring
+# Day 45 - Reviewing before moving on to Build Tools for Devops
 
 #### Month March 21, 2021
 
-**Focus**: Taking all the stuff I have leanred over the past few days and worked on a small project. I uding role to install lighttpd on both debian and redhat variants.
+**Focus**: Taking all the stuff I have learned over the past few days and worked on a small project. I am using role to install lighttpd on both debian and Redhat variants.
 
 **Progress**:
 
@@ -1020,3 +1019,25 @@ N/A
 **Work & Resources:**:
 ![How ansible works](images/ansible-arch.jpg
 )
+
+---
+
+# Build & Package Manager Tools
+
+---
+
+# Day 45 - Build Tools and Package Managers
+
+#### March 30, 2021
+
+**Focus**: Learning and using build and package managers tools
+
+**Progress**:
+
+- Understand artifacts
+- Using Maven, Gradle, and npm to package applications
+- Review my responsibilities as a devops engineer
+
+**Thoughts**: I am pretty much familiar with these tools. I have been using them from time to time at my job.
+
+**Work & Resources:**:
