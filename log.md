@@ -1041,3 +1041,21 @@ N/A
 **Thoughts**: I am pretty much familiar with these tools. I have been using them from time to time at my job.
 
 **Work & Resources:**:
+
+# Day 46 - Cloud and IaaS
+
+#### March 31, 2021
+
+**Focus**: Using the DigitalOcean cloud services to deploy a java application
+
+**Progress**:
+
+- Setup a DigitalOcean Ubuntu server (Droplet)
+- Install Java on the Server
+- Deploy and run a java application on Cloud Server
+- Create a Linux User to login to Server (instead of using Root User)
+
+**Thoughts**: DigitalOcean cloud server is super simple compare to AWS EC2 instance. It was refreshing using a linux environment to deploy this simple app.
+
+**Work & Resources:**:
+[Application Deployment using DigitalOcean]([Ansible Tags](<https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-iaas/>)
