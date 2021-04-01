@@ -1059,3 +1059,29 @@ N/A
 
 **Work & Resources:**:
 [Application Deployment using DigitalOcean]([Ansible Tags](<https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-iaas/>)
+
+---
+
+# Artifact Repository and Manager with Nexus
+
+---
+
+# Day 46 - Nexus - concept and practice
+
+#### April 1st, 2021
+
+**Focus**: Understanding what nexus is all about as well as install and configure it
+
+**Progress**:
+
+- Review what an artifact is
+- Understand artifact repository and manager
+- Create a new droplet
+- Install java
+- Install and configure Nexus
+- Connecting to Nexus
+
+**Thoughts**: Today was all about understanding the concept of artifact repository and manager. The rest was hands-on learning. I worked on downloading, configuring, and running Nexus.
+
+**Work & Resources:**:
+[Application Deployment using DigitalOcean]([Ansible Tags](<https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-iaas/>)
