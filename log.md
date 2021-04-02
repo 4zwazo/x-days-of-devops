@@ -14,12 +14,12 @@
 **Progress**:
 
 - Creating free-tier account
-- Leran the basics of cloud computing
+- Learn the basics of cloud computing
 - Learn about cloud deployment models
 - Learn about the benefits of these models
 - Learn about the shared responsibility model
 
-**Thoughts**:\ Not much hands-on practice today. But learning about cloud computing is refreshing.
+**Thoughts**: Not much hands-on practice today. But learning about cloud computing is refreshing. I need to keep learning more about cloud computing.
 
 **Work & Resources**:\
 [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
@@ -41,7 +41,7 @@
 - Creating custom VPC
 - Launch EC2 instances and connect to then via ssh
 
-**Thoughts**: Creating a custom VPC was challenging. With persistence and perseverance I was able to get it done. I am longer using the default VPC.
+**Thoughts**: Creating a custom VPC was challenging. However, with persistence and perseverance I was able to nail it. From now on I am no longer using the default VPC. I using on my own custom VPC.
 
 **Work & Resources**:\
 [Virtual private cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud)\
@@ -51,11 +51,11 @@
 
 ---
 
-### Day 3 - Foundational & Compute Service<h2>
+### Day 3 - Foundational & Compute Service
 
 #### November 9, 2020
 
-**Focus**: No better way to start with AWS than EC2. Today the learning focuses on EC2 basics and some of the main features it offers. It also touches on storage, auto scaling and load balancing.
+**Focus**: Today the learning focuses on EC2 basics and understanding some of the main features it offers. It also touches on storage, auto scaling and load balancing.
 
 **Progress**:
 
@@ -88,7 +88,7 @@ Auto scaling and Load Balancing
 - Create load balancer and have load balancer serves traffic to the instance
 - Verify you can see webapp from your browser
 
-**Thoughts**: Doing the lab was refreshing and really cement the concept for me. Navigating the console was a bit intimidating at first. With patience and dedication it becomes easier. Taking the time to draw the architecture prior immersing in the labs was instrumental in connecting the dots.
+**Thoughts**: No better way to start experimenting with AWS than EC2. Doing the lab was refreshing and it helped cement the concept for me. Navigating the console was a bit intimidating at first. With patience and dedication it became easier. Also Taking the time to draw the architecture prior immersing in the labs was instrumental in connecting the dots.
 
 **Work & Resources**:
 
@@ -96,11 +96,11 @@ Auto scaling and Load Balancing
 
 ---
 
-<h2 style="color: #F1B24A;">Day 4 - Foundational & Compute Service<h2>
+### Day 4 - Foundational & Compute Service
 
 #### November 10, 2020
 
-**Focus**: The learning today was focuses on Lambda. I spent a good amount of time experimenting with the lambda function. I did things such as using the parameter passed to the function to stop and restart the instance. I even played around with API gateway that called the lambda function to bring the intance up/down.
+**Focus**: The learning today focused on AWS Lambda.
 
 ## **Progress**
 
@@ -111,9 +111,7 @@ Auto scaling and Load Balancing
 - Code the lambda function to start/stop an EC2 instance
 - Playing around with environment variables
 
-**Thoughts**:
-
-Today working with lambda was fun. I realized there are more to lambda than writing simple functions. It is one area I need to dedicate more time learning.
+**Thoughts**: I spent a good amount of time experimenting with lambda function using python. I did things such as using the parameter passed to the function to stop and restart an instance. I even played around with API gateway. An API called was made to the lambda function to bring the intance up/down. I realized there are more to lambda than writing simple functions. It is one area I need to dedicate more time learning.
 
 **Work & Resources**:
 
@@ -148,7 +146,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 #### November 12, 2020
 
-**Focus**: The learning today focused on S3, DynamoDB, RDS, and CloudFront. I focused in making sure I understand the concept well. I have completed all the labs. It was well worth my time.
+**Focus**: The learning today focused on S3, DynamoDB, RDS, and CloudFront.
 
 **Progress**:
 
@@ -158,7 +156,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Create a S3 bucket and upload a simple web site to the bucket
 - Create a CloudFront distribution for the website
 
-**Thoughts**: The lab makes working with DynamoDB super fun.
+**Thoughts**: I focused in making sure I understand the concept well. I have completed all the labs. It was well worth my time.
 
 **Work & Resources**:
 [Introduction to CloudFront](https://www.qwiklabs.com/focuses/14183?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7804775)
@@ -169,13 +167,13 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 #### November 13, 2020
 
-**Focus**: The learning today was on security. It stressed the needs on applying best practices to keep your environment and the application running in the cloud secured.
+**Focus**: The learning today was on security.
 
 ## **Progress**
 
 - Create an IAM policy
 
-**Thoughts** Today I read a few article about security. This is an important topic I need to immerse myself into.
+**Thoughts** Today I read a few article about security in the cloud. This is an important topic I need to immerse myself further into.
 
 **Work & Resources**:
 
@@ -194,7 +192,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Create a topic, Subscribe to a topic, and publish message to a topic
 - Playing around with ECS and SQS
 
-**Thoughts**: I had to spend a good chunk of time study SNS. It was a bit challenging getting the concept ingrained in my brain. As always go to the drawing board save the day.
+**Thoughts**: I had to spend a good chunk of time study SNS. It was a bit challenging getting the concept ingrained in my brain. As always when the learniing got tough, go to the drawing board save the day.
 
 **Work & Resources**:
 ![SNS Notification](images/sns.jpg)
@@ -215,7 +213,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Save and deploy a CloudFormation stack
 - View S3 Bucket created by CloudFormation Stack
 
-**Thoughts**: Definitely the best way to get better working in the cloud is to read, create, practice. What do I mean by that? Read and understand the concept, come up with something, draws it, and get your hands dirty and just do it. If you get stuck learn how others did it.
+**Thoughts**: Definitely the best way to get better working in the cloud is to read, create, practice. What do I mean by that? Read and understand the concept, come up with something, draw it on paper, and get your hands dirty.
 
 **Work & Resources**:
 [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
@@ -254,7 +252,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 #### November 17, 2020
 
-**Focus**: The learning today was to deploy a static web site on AWS.
+**Focus**: The learning today was on deploying a static web site on AWS.
 
 **Progress**:
 
@@ -262,7 +260,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Create an A record for the website using Route53
 - Distribute the web site via CloudFront
 
-**Thoughts**: The bucket IAM policy got the best of me. I assumed granted public access to the bucket, all objects within the bucket will have the same permissions automatically. I kept getting access denied and couldn't figure out the reasons for it. As always reading the AWS documentation helped me formulated the solution.
+**Thoughts**: The bucket IAM policy got the best of me. I assumed granted public access to the bucket and all objects within the bucket acquired the same permissions automatically. I kept getting access denied and couldn't figure out the reasons for it. As always reading the AWS documentation helped arrived at the resolution.
 
 **Work & Resources**:
 [The Travel Blog](travel.sokibi.com)
@@ -309,7 +307,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Running the template vis the CLI to create the stack
 - Use the CLI to verify the stack created and VPC online
 
-- **Thoughts**: Becoming familiar with the AWS CLI is important. It worth it since this is where I will spend most of my time when working with AWS. The AWS documentation is an indispensable source of knowledge when working with the AWS CLI.
+- **Thoughts**: Using cloudformation to create infrastructure is super important. I had fun playing around with CloudFormation.
 
 **Work & Resources**:
 [AWS::EC2::VPC](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-vpc.html)
@@ -323,7 +321,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 
 #### November 19, 2020
 
-**Focus**: Todays learning focused on Converting business requirements into infrastructure diagrams and understand the principles behind design choices.
+**Focus**: Todays learning focused on Converting business requirements into infrastructure diagrams and understand the principles behind the choice of the design.
 
 **Progress**:
 
@@ -331,7 +329,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Setting up a Lucid Chart
 - using the diagrams to create a cloud environment
 
-**Thoughts**: The diagram is an important step before writing the code for the environment. I need to able to see what I am write the code for. The diagram helps you to see where the location of services, subnets, route tables, and others within the cloud environment.
+**Thoughts**: The diagram is an important step before writing the code for the environment. The diagram helps you to see where the location of services, subnets, route tables, and others within the cloud environment are.
 
 **Work & Resources**:
 ![Infrastructure diagram](images/iac-day14.jpeg)
@@ -359,7 +357,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Getting familiar AWS diagrams
 - Using the previous day diagram and tailor it for a hybrid architecture
 
-**Thoughts**: Today's task involve converting the business requirements into infrastructure diagrams. Once I understand the requirements, it was pretty easy to construct the diagram. It would have been more fun if I worked with another person on this project.
+**Thoughts**: Today's task involves converting the business requirements into infrastructure diagrams. Once I understand the requirements, it was pretty easy to construct the diagram. It would have been more fun if I worked with another peer on this project.
 
 **Work & Resources**:
 ![On-Premise diagram](images/on-premise-day15.jpeg)
@@ -378,7 +376,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Update the stack by adding NET Gatwway, Subnet, and routing
 - create an create.sh and update.sh script for creating and updating the stack
 
-**Thoughts**: Today's task involve converting the infrastructure diagram to code.
+**Thoughts**: Today's task involves converting the infrastructure diagram to code. This is definitely something i need to keep on doing.
 
 **Work & Resources**:
 
@@ -400,7 +398,7 @@ Today working with lambda was fun. I realized there are more to lambda than writ
 - Creating autoscaling group and launch configuration
 - Getting familiar and interpreting errors, and steps to fix them
 
-**Thoughts**: It is a joy getting hands-on experience create the code that implements the environment. I purposely made errors in the code that forced me to learn about how cloudformation works. In addition to research and learn what these errors mean.
+**Thoughts**: It is a joy getting hands-on experience create the code that implements the environment. I purposely made errors during  code. that forced me to learn about how cloudformation works. In addition to research and learn what these errors mean.
 
 **Work & Resources**:
 
@@ -1084,4 +1082,25 @@ N/A
 **Thoughts**: Today was all about understanding the concept of artifact repository and manager. The rest was hands-on learning. I worked on downloading, configuring, and running Nexus.
 
 **Work & Resources:**:
-[Application Deployment using DigitalOcean]([Ansible Tags](<https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-iaas/>)
+[Application Deployment using DigitalOcean]([Ansible Tags](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/cloud-iaas/)
+
+---
+
+# Day 47 - Deployment and publishing of artifacts to Nexus
+
+#### April 2st, 2021
+
+**Focus**: Using Nexus UI, creating user and role, and deploy artifacts
+
+**Progress**:
+
+- Getting familiar with the Nexus UI
+- Creating user and role
+- Configure java applications to connect to Nexus
+- Published artifacts to Nexus
+
+**Thoughts**: I have lots of fun with nexus, gradle and maven. It was refreshing having to create builds and published them to Nexus.
+
+**Work & Resources:**:
+[Java gradle application]([Ansible Tags](https://github.com/pascallaurent/java-gradle-app)
+[Java maven application]([Ansible Tags](https://github.com/pascallaurent/java-maven-app)
