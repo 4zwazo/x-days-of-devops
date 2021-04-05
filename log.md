@@ -1088,7 +1088,7 @@ N/A
 
 # Day 47 - Deployment and publishing of artifacts to Nexus
 
-#### April 2st, 2021
+#### April 2nd, 2021
 
 **Focus**: Using Nexus UI, creating user and role, and deploy artifacts
 
@@ -1104,3 +1104,22 @@ N/A
 **Work & Resources:**:
 [Java gradle application]([Ansible Tags](https://github.com/pascallaurent/java-gradle-app)
 [Java maven application]([Ansible Tags](https://github.com/pascallaurent/java-maven-app)
+
+---
+
+# Day 47 - Nexus API
+
+#### April 4, 2021
+
+**Focus**: Nexus API
+
+**Progress**:
+
+- Understanding Nexus API
+- Using the API to list repos
+- Show all the components in the maven-snapshots repo
+- Blob store
+
+**Thoughts**: This is a short lesson focus on interacting with the Nexus API. Needs to go and enjoying Easter. I will continue with the learning tomorrow.
+
+**Work & Resources:**:
