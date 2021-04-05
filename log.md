@@ -1118,8 +1118,31 @@ N/A
 - Understanding Nexus API
 - Using the API to list repos
 - Show all the components in the maven-snapshots repo
-- Blob store
+- understanding Blob store
 
 **Thoughts**: This is a short lesson focus on interacting with the Nexus API. Needs to go and enjoying Easter. I will continue with the learning tomorrow.
+
+**Work & Resources:**:
+
+---
+
+# Day 48 - Nexus Blob Stores
+
+#### April 4, 2021
+
+**Focus**: Blob stores
+
+**Progress**:
+
+- Creating Blob Stores
+- Assets vs Components
+- Creating blob store
+- Create clean up policy
+- Attach policy to repository
+- Creat compact store task to free up blob space
+- Execute the clean up service task to clean up repo
+- Execute compact-store to free up blob space
+
+**Thoughts**: I definitely need to come back and lean more about Nexus.
 
 **Work & Resources:**:
