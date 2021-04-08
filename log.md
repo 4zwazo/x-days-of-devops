@@ -1196,3 +1196,5 @@ N/A
 ## demo app - developing with Docker
 
 [Configure and start application](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/app.md)
+
+[js demo application](https://github.com/pascallaurent/js-demo-app)
