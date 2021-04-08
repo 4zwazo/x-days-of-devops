@@ -1173,3 +1173,26 @@ N/A
 [Installing Docker on MacOS](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/)
 
 ---
+
+# Day 50 - developing an application with Docker
+
+#### April 6, 2021
+
+**Focus**: developing a simple user profile app
+
+**Progress**:
+
+- Pull and run mongo and mongo-express
+- create docker network
+- Start mongo and mongo-express
+- Connect to mongo-express
+- configure application
+- start application
+
+**Thoughts**:
+
+**Work & Resources:**:
+
+## demo app - developing with Docker
+
+[Configure and start application](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/app.md)
