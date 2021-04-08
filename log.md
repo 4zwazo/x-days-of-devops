@@ -1193,7 +1193,7 @@ N/A
 
 **Work & Resources:**:
 
-## demo app - developing with Docker
+![js demo app](images/demo-js.jpg)
 
 [Configure and start application](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/app.md)
 
