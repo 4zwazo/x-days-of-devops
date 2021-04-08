@@ -5,7 +5,7 @@
 
 ---
 
-### Cloud ServicesDay 1 - Cloud Computing
+### Cloud Services Day 1 - Cloud Computing
 
 #### November 7, 2020
 
@@ -978,7 +978,7 @@ N/A
 **Thoughts**: Tags make playbooks more dynamic. If an error occurred while the playbook is executing, errors can be ignored and the process continues.
 
 **Work & Resources:**:
-[Ansible Tags](<https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/>
+[Ansible Tags](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/ansible/)
 
 ---
 
@@ -1015,8 +1015,7 @@ N/A
 **Thoughts**: Working on a small project that serves as a review for what I have learned over the past few days. Now I am ready to move on to monitoring.1
 
 **Work & Resources:**:
-![How ansible works](images/ansible-arch.jpg
-)
+![How ansible works](images/ansible-arch.jpg)
 
 ---
 
@@ -1109,7 +1108,7 @@ N/A
 
 # Day 47 - Nexus API
 
-#### April 4, 2021
+#### April 3, 2021
 
 **Focus**: Nexus API
 
@@ -1146,3 +1145,31 @@ N/A
 **Thoughts**: I definitely need to come back and lean more about Nexus.
 
 **Work & Resources:**:
+
+---
+
+# Containers with Docker
+
+---
+
+# Day 49 - Docker fundamentals
+
+#### April 5, 2021
+
+**Focus**: docker fundamentals
+
+**Progress**:
+
+- Docker architecture
+- Docker image vs container
+- Installing docker
+- Using docker commands to Pull images, run containers, and more
+- Familiarize with docker commands
+
+**Thoughts**: Cleared up some confusion by understanding what a docker container is as well as docker image.
+
+**Work & Resources:**:
+
+[Installing Docker on MacOS](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/)
+
+---
