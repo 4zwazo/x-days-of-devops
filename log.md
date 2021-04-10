@@ -1198,3 +1198,46 @@ N/A
 [Configure and start application](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/app.md)
 
 [js demo application](https://github.com/pascallaurent/js-demo-app)
+
+---
+
+# Day 51 - Docker compose
+
+#### April 7, 2021
+
+**Focus**: Running multiple services with docker compose
+
+**Progress**:
+
+- Create docker compose file
+- Start container using docker compose
+- Interpreting the log docker-compose generates
+
+**Thoughts**:
+
+**Work & Resources:**:
+
+---
+
+# Day 51 - Docker Image
+
+#### April 8, 2021
+
+**Focus**: Building image with Dockerfile
+
+**Progress**:
+
+- Simulate a CI/CD pipeline manually
+- Creating dockerfile
+- Build docker image
+- Push image to an AWS ECR
+- Pull image from dev server and deploy it
+
+**Thoughts**: There so much you can do with Docker. It is an amazing tool. So far I only scratch the surface. This is a tool I need spend lots of time experimenting with.
+
+**Work & Resources:**
+
+This lab has been simulated manually. No actual jenkins server was setup. It was manually done at the CLI.
+
+![ci](images/ci.png)
+---
