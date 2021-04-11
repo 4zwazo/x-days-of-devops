@@ -1195,7 +1195,7 @@ N/A
 
 ![js demo app](images/demo-js.jpg)
 
-[Configure and start application](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/app.md)
+[Configure and start application](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker)
 
 [js demo application](https://github.com/pascallaurent/js-demo-app)
 
@@ -1240,4 +1240,30 @@ N/A
 This lab has been simulated manually. No actual jenkins server was setup. It was manually done at the CLI.
 
 ![ci](images/ci.png)
+
+---
+
+# Day 53 - Docker volume and repo
+
+#### April 9, 2021
+
+**Focus**: Docker volumes and Nexus docker repo
+
+**Progress**:
+
+- Understand how docker volumes works
+- Learned about host, anonymous, and name volume
+- Practice creating name volume
+- Create Nexus docker repo
+
+**Thoughts**: This was an educational hands-on learning session.
+
+**Work & Resources:**
+
+[Docker volume and repo](https://github.com/pascallaurent/x-days-of-devops/blob/main/resources/code/docker/)
+
+---
+
+## Taking a week to do more hands-on practice with docker
+
 ---
