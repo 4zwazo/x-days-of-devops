@@ -1219,7 +1219,7 @@ N/A
 
 ---
 
-# Day 51 - Docker Image
+# Day 52 - Docker Image
 
 #### April 8, 2021
 
