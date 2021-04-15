@@ -1267,3 +1267,22 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 ## Taking a week to do more hands-on practice with docker
 
 ---
+
+### Review 1: How docker works
+
+**Focus**: Understanding Docker and Running Hello World
+
+**Progress**:
+
+- Docker architecture
+- Review container vs image
+- Understand what a container is
+- Making sense of a docker command
+- Lab to copy a file from the host to container
+
+**Thoughts**: This review really help me understanding docker and how it works.
+
+**Work & Resources:**
+
+![Docker Architecture](images/docker-architecture.png)
+![Docker Container](images/container.png)
