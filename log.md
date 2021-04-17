@@ -1285,4 +1285,26 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 **Work & Resources:**
 
 ![Docker Architecture](images/docker-architecture.png)
+
 ![Docker Container](images/container.png)
+
+---
+
+### Review 2: Docker images
+
+**Focus**: Building my own docker images
+
+**Progress**:
+
+- Obtaining docker images from docker hub
+- Experimenting with environment variables
+- Writing my own Dockerfile
+- Building my own docker image
+- Understand image layers
+- How to optimize Dockerfile
+- Lab: produce a Docker image without a Dockerfile
+
+**Thoughts**: It was fun packaging my image to in docker. The lab got the best of me at first. Playing around with the docker container command helped along the way.
+
+**Work & Resources:**
+[Review 2: Docker images](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/docker/labs/review-2)
