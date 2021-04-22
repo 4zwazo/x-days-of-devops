@@ -1307,4 +1307,23 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 **Thoughts**: It was fun packaging my image to in docker. The lab got the best of me at first. Playing around with the docker container command helped along the way.
 
 **Work & Resources:**
+
 [Review 2: Docker images](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/docker/labs/review-2)
+
+---
+
+### Review 3: Packaging applications
+
+**Focus**: packaging applications from source to code using docker
+
+**Progress**:
+
+- Understand multi-stage Dockerfile
+- Creating using multi-stage Dockerfile
+- packaging java, node, and go applications
+- Setup docker network for containers to communicate among themselves
+- lab
+
+**Thoughts**: It was a pretty cool experimenting with running a distributed application across three containers.
+
+**Work & Resources:**
