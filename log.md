@@ -1327,3 +1327,4 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 **Thoughts**: It was a pretty cool experimenting with running a distributed application across three containers.
 
 **Work & Resources:**
+[Multi stage docker](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/docker/exercises/multi-stage)
