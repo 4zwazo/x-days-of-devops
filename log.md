@@ -1328,3 +1328,25 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 
 **Work & Resources:**
 [Multi stage docker](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/docker/exercises/multi-stage)
+
+---
+
+# Jenkins as a docker container
+
+---
+
+# Day 54 - Understand and Install Jenkins
+
+**Focus**: Jenkins overview and installation
+
+**Progress**:
+
+- Understand what Jenkins is all about
+- Understand what jenkins help you do
+- Build automation and benefits
+- Installing and configure jenkins
+
+**Thoughts**: This was an educational hands-on learning session. Enjoying a few challenges installing jenkins on PI4.
+
+**Work & Resources:**
+[Multi stage docker](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/jenkins)
