@@ -1346,7 +1346,7 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 - Build automation and benefits
 - Installing and configure jenkins
 
-**Thoughts**: This was an educational hands-on learning session. Enjoying a few challenges installing jenkins on PI4.
+**Thoughts**: This was an educational hands-on learning session. Enjoying the challenges of installing jenkins on PI4 as docker container.
 
 **Work & Resources:**
 [Multi stage docker](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/jenkins)
