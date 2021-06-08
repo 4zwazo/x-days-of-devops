@@ -7,7 +7,6 @@
 
 ### Cloud Services Day 1 - Cloud Computing
 
-#### November 7, 2020
 
 **Focus**: The focus was on understanding what cloud computing is all about.
 
@@ -28,7 +27,6 @@
 
 ### Day 2 - Foundational & Compute Service
 
-#### November 8, 2020
 
 **Focus**: The focus for today was on Virtual Private Cloud (VPC).
 
@@ -53,7 +51,6 @@
 
 ### Day 3 - Foundational & Compute Service
 
-#### November 9, 2020
 
 **Focus**: Today the learning focuses on EC2 basics and understanding some of the main features it offers. It also touches on storage, auto scaling and load balancing.
 
@@ -98,7 +95,6 @@ Auto scaling and Load Balancing
 
 ### Day 4 - Foundational & Compute Service
 
-#### November 10, 2020
 
 **Focus**: The learning today focused on AWS Lambda.
 
@@ -123,8 +119,6 @@ Auto scaling and Load Balancing
 
 ### Day 5 - AWS Management
 
-#### November 11, 2020
-
 **Focus**: The learning today focused on the AWS Command Line (CLI) Interface
 
 **Progress**:
@@ -143,8 +137,6 @@ Auto scaling and Load Balancing
 ---
 
 ### Day 6 - Storage & Content Delivery
-
-#### November 12, 2020
 
 **Focus**: The learning today focused on S3, DynamoDB, RDS, and CloudFront.
 
@@ -165,8 +157,6 @@ Auto scaling and Load Balancing
 
 ### Day 7 - Security
 
-#### November 13, 2020
-
 **Focus**: The learning today was on security.
 
 ## **Progress**
@@ -183,8 +173,6 @@ Auto scaling and Load Balancing
 
 ### Day 8 - Messaging & Containers
 
-#### November 14, 2020
-
 **Focus**: The learning today was on SNS, SQS, and ECS.
 
 ## **Progress**
@@ -200,8 +188,6 @@ Auto scaling and Load Balancing
 ---
 
 ### Day 9 - AWS Management
-
-#### November 15, 2020
 
 **Focus**: The learning today focused on CloudTrail, CloudWatch, and CloudFormation
 
@@ -227,8 +213,6 @@ Auto scaling and Load Balancing
 
 ### Day 10 - AWS Management
 
-#### November 16, 2020
-
 **Focus**: The learning today focused on the AWS Command Line Interface (CLI)
 
 **Progress**:
@@ -249,8 +233,6 @@ Auto scaling and Load Balancing
 # Cloud Fundamentals Project
 
 ### Day 11 - Deploy Static Website on AWS
-
-#### November 17, 2020
 
 **Focus**: The learning today was on deploying a static web site on AWS.
 
@@ -273,8 +255,6 @@ Auto scaling and Load Balancing
 
 ### Day 12 - Getting Started with CloudFormation
 
-#### November 18, 2020
-
 **Focus**: The learning today was focused on DevOps in general.
 
 **Progress**:
@@ -294,8 +274,6 @@ Auto scaling and Load Balancing
 ---
 
 ### Day 13 - Getting Started with CloudFormation
-
-#### November 19, 2020
 
 **Focus**: The learning today was on getting my hands dirty with the basic of cloud formation.
 
@@ -318,8 +296,6 @@ Auto scaling and Load Balancing
 ---
 
 ### Day 14 - Infrastructure Diagrams
-
-#### November 19, 2020
 
 **Focus**: Todays learning focused on Converting business requirements into infrastructure diagrams and understand the principles behind the choice of the design.
 
@@ -348,8 +324,6 @@ Auto scaling and Load Balancing
 
 ### Day 15 - Task 1 - Create a diagram that represent a corporate-only cloud
 
-#### November 23, 2020
-
 **Focus**: The focus for today was on creating a hybrid cloud environment.
 
 **Progress**:
@@ -365,8 +339,6 @@ Auto scaling and Load Balancing
 ---
 
 ### Day 16 - Networking Infrastructure
-
-#### November 24, 2020
 
 **Focus**: The focus for today was converting the diagram I worked on Day 14 to code.
 
@@ -388,8 +360,6 @@ Auto scaling and Load Balancing
 
 ### Day 17 - Servers and Security Groups
 
-#### November 25, 2020
-
 **Focus**: Add the necessary components to start deploying servers, application, etc. This is the continuation of the work completed in day 16
 
 **Progress**:
@@ -408,8 +378,6 @@ Auto scaling and Load Balancing
 ---
 
 ### Day 18 - Servers and Security Groups
-
-#### November 30, 2020
 
 **Focus**: Practice creating environment using cloudformation
 
@@ -430,8 +398,6 @@ Auto scaling and Load Balancing
 
 ### Day 19 - Storage and Databases
 
-#### December 01, 2020
-
 **Focus**: Adding RDS Database to the infrastructure
 
 **Progress**:
@@ -447,8 +413,6 @@ Auto scaling and Load Balancing
 ---
 
 ## Day 20 - Task 1 - Convert diagram's infrastructure to code
-
-#### December 05, 2020
 
 **Focus**: Reviewing what I have learned from the past few days. Now deploying an Amazon RDS database in a single AZ.
 
@@ -468,8 +432,6 @@ Auto scaling and Load Balancing
 
 ## Day 21 - Task 1 - Convert diagram's infrastructure to code
 
-#### December 06, 2020
-
 **Focus**: completed the code for the networking part of day 20
 
 **Progress**:
@@ -486,8 +448,6 @@ Auto scaling and Load Balancing
 
 ## Day 22 - Task 1 - Convert diagram's infrastructure to code
 
-#### December 07, 2020
-
 **Focus**: adding an RDS MySQL database and redraw the infrastructure diagram. The work involve deploying an Amazon RDS database in a single AZ.
 
 **Progress**:
@@ -503,8 +463,6 @@ Auto scaling and Load Balancing
 ---
 
 ## Day 25 - Task 1 - Convert diagram's infrastructure to code
-
-#### December 10, 2020
 
 **Focus**: Completed the coding for the RDS part of the task
 
@@ -530,8 +488,6 @@ Auto scaling and Load Balancing
 
 ## Day 26 - Deploy a high-availability web app using CloudFormation
 
-#### December 11, 2020
-
 **Focus**: Creating architecture diagram
 
 **Progress**:
@@ -552,8 +508,6 @@ Auto scaling and Load Balancing
 
 ## Day 27 - Deploy a high-availability web app using CloudFormation
 
-#### December 12, 2020
-
 **Focus**: Start coding the infrastructure
 
 **Progress**:
@@ -571,8 +525,6 @@ Auto scaling and Load Balancing
 
 ## Day 28- Elastic load balacer and auto scaling
 
-#### December 13, 2020
-
 **Focus**: Playing aroung with load balacing and auto scaling
 
 **Progress**:
@@ -588,8 +540,6 @@ Auto scaling and Load Balancing
 ---
 
 ## Day 29 - Completed the project
-
-#### December 14, 2020
 
 **Focus**: Completed the deployemnt of the landscaping project
 
@@ -615,8 +565,6 @@ Auto scaling and Load Balancing
 
 ## Day 30 - Continuous Integration and Continuous Deployment
 
-#### December 17, 2020
-
 **Focus**: Understanding CI/CD Pipelines, Monitoring, and Logging and getting our environment.
 
 **Progress**:
@@ -634,8 +582,6 @@ Auto scaling and Load Balancing
 ---
 
 ## Day 31 - Getting Jenkins up and running
-
-#### December 18, 2020
 
 **Focus**: Getting Jenkins up and running
 
@@ -656,8 +602,6 @@ Auto scaling and Load Balancing
 
 ## Day 32 - What is this CI/CD stuff all about
 
-#### December 19, 2020
-
 **Focus**: Understanding how the delivery of software works
 
 **Progress**:
@@ -674,8 +618,6 @@ N/A
 ---
 
 ## Day 33 - Continuous Integration and Continuous Deployment Strategies
-
-#### December 20, 2020
 
 **Focus**: Configure Jenkins to talk to S3 and github
 
@@ -696,8 +638,6 @@ N/A
 
 ## Day 34 - Continuous Integration and Continuous Deployment Strategies
 
-#### December 21, 2020
-
 **Focus**: Build a Jenkins pipeline to upload a file to S3
 
 **Progress**:
@@ -715,8 +655,6 @@ N/A
 ---
 
 ## Day 35 - Continuous Integration and Continuous Deployment Strategies
-
-#### December 22, 2020
 
 **Focus**: Doing some practice exercises
 
@@ -741,8 +679,6 @@ N/A
 
 ## Day 36- Ansible: what and why
 
-#### December 23, 2020
-
 **Focus**: Understanding what ansible is and why
 
 **Progress**:
@@ -763,8 +699,6 @@ N/A
 
 ## Day 37 - Prepare Ansible Control Node environment
 
-#### January 5, 2021
-
 **Focus**: Prepare the Ansible control node environment
 
 **Progress**
@@ -782,8 +716,6 @@ N/A
 ---
 
 ## Day 38 - Prepare Ansible Managed Node environment
-
-#### January 6,  2021
 
 **Focus**: Prepare managed node on RedHat Linux, installing ansible, setup SSH, and issuing ad-hoc commands
 
@@ -804,8 +736,6 @@ N/A
 
 ## Day 39 - Ansible Inventory and ad-hoc commands
 
-#### January 7,  2021
-
 **Focus**: running ad-hoc commands and playing with ansible inventory
 
 **Progress**
@@ -822,8 +752,6 @@ N/A
 ---
 
 ## Day 40 - Continue with my DevOps learning
-
-#### March 6,  2021
 
 **Focus**: Re-focus on ansible after a long pause.
 
@@ -842,8 +770,6 @@ N/A
 ---
 
 ## Day 41 - Ansible components
-
-#### Month March 7, 2021
 
 **Focus**: Today's learning focuses on ansible inventory, modules, and how to execute ad-hoc commands
 
@@ -865,8 +791,6 @@ N/A
 
 ## Day 41 - Ansible playbooks
 
-#### Month March 8, 2021
-
 **Focus**: The learning today focused on ansible playhook
 
 **Progress**:
@@ -884,8 +808,6 @@ N/A
 ---
 
 # Day 42 - Ansible module
-
-#### Month March 9, 2021
 
 **Focus**: The learning today focused on ansible module
 
@@ -906,8 +828,6 @@ N/A
 
 # Day 42 - Multitask Ansible Playbooks
 
-#### Month March 10, 2021
-
 **Focus**: How to run multiple tasks in playbook
 
 **Progress**:
@@ -924,8 +844,6 @@ N/A
 ---
 
 # Day 43 - Ansible notify and handlers, and when conditionals
-
-#### Month March 12, 2021
 
 **Focus**: Today's learning focuses on notify and handlers, and using teh when conditionals
 
@@ -947,8 +865,6 @@ N/A
 
 # Day 43 - Ansible variables
 
-#### Month March 13, 2021
-
 **Focus**: The learning today focused on using variables with ansible playbooks
 
 **Progress**:
@@ -966,8 +882,6 @@ N/A
 
 # Day 44 - Using tags and handling errors
 
-#### Month March 14, 2021
-
 **Focus**: The focus today is on using tags and ignore errors
 
 **Progress**:
@@ -984,8 +898,6 @@ N/A
 
 # Day 45 - Vault and Roles
 
-#### Month March 15, 2021
-
 **Focus**: The focus today was on vault and roles
 
 **Progress**:
@@ -1001,8 +913,6 @@ N/A
 ---
 
 # Day 45 - Reviewing before moving on to Build Tools for Devops
-
-#### Month March 21, 2021
 
 **Focus**: Taking all the stuff I have learned over the past few days and worked on a small project. I am using role to install lighttpd on both debian and Redhat variants.
 
@@ -1025,8 +935,6 @@ N/A
 
 # Day 45 - Build Tools and Package Managers
 
-#### March 30, 2021
-
 **Focus**: Learning and using build and package managers tools
 
 **Progress**:
@@ -1040,8 +948,6 @@ N/A
 **Work & Resources:**:
 
 # Day 46 - Cloud and IaaS
-
-#### March 31, 2021
 
 **Focus**: Using the DigitalOcean cloud services to deploy a java application
 
@@ -1065,8 +971,6 @@ N/A
 
 # Day 46 - Nexus - concept and practice
 
-#### April 1st, 2021
-
 **Focus**: Understanding what nexus is all about as well as install and configure it
 
 **Progress**:
@@ -1087,8 +991,6 @@ N/A
 
 # Day 47 - Deployment and publishing of artifacts to Nexus
 
-#### April 2nd, 2021
-
 **Focus**: Using Nexus UI, creating user and role, and deploy artifacts
 
 **Progress**:
@@ -1108,8 +1010,6 @@ N/A
 
 # Day 47 - Nexus API
 
-#### April 3, 2021
-
 **Focus**: Nexus API
 
 **Progress**:
@@ -1126,8 +1026,6 @@ N/A
 ---
 
 # Day 48 - Nexus Blob Stores
-
-#### April 4, 2021
 
 **Focus**: Blob stores
 
@@ -1154,8 +1052,6 @@ N/A
 
 # Day 49 - Docker fundamentals
 
-#### April 5, 2021
-
 **Focus**: docker fundamentals
 
 **Progress**:
@@ -1175,8 +1071,6 @@ N/A
 ---
 
 # Day 50 - developing an application with Docker
-
-#### April 6, 2021
 
 **Focus**: developing a simple user profile app
 
@@ -1203,8 +1097,6 @@ N/A
 
 # Day 51 - Docker compose
 
-#### April 7, 2021
-
 **Focus**: Running multiple services with docker compose
 
 **Progress**:
@@ -1220,8 +1112,6 @@ N/A
 ---
 
 # Day 52 - Docker Image
-
-#### April 8, 2021
 
 **Focus**: Building image with Dockerfile
 
@@ -1244,8 +1134,6 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 ---
 
 # Day 53 - Docker volume and repo
-
-#### April 9, 2021
 
 **Focus**: Docker volumes and Nexus docker repo
 
@@ -1350,3 +1238,4 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 
 **Work & Resources:**
 [Multi stage docker](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/jenkins)
+
