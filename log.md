@@ -7,7 +7,6 @@
 
 ### Cloud Services Day 1 - Cloud Computing
 
-
 **Focus**: The focus was on understanding what cloud computing is all about.
 
 **Progress**:
@@ -26,7 +25,6 @@
 ---
 
 ### Day 2 - Foundational & Compute Service
-
 
 **Focus**: The focus for today was on Virtual Private Cloud (VPC).
 
@@ -50,7 +48,6 @@
 ---
 
 ### Day 3 - Foundational & Compute Service
-
 
 **Focus**: Today the learning focuses on EC2 basics and understanding some of the main features it offers. It also touches on storage, auto scaling and load balancing.
 
@@ -94,7 +91,6 @@ Auto scaling and Load Balancing
 ---
 
 ### Day 4 - Foundational & Compute Service
-
 
 **Focus**: The learning today focused on AWS Lambda.
 
@@ -1239,3 +1235,22 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 **Work & Resources:**
 [Multi stage docker](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/jenkins)
 
+---
+
+# Day 55 - Jenkins jobs
+
+**Focus**: Jenkins overview and installation
+
+**Progress**:
+
+- Install plugins
+- Install nodejs at the container shell
+- Create jobs that run simple commands
+- Create jobs that interact with git repo
+- Create job that checkout a java application, run test on it, build jar file
+- Learn how to read and interpret errors in the job log
+
+**Thoughts**: Today was pretty cool and I enjoy the learning.
+
+**Work & Resources:**
+![Docker Architecture](images/java-app-maven-docker.png)
