@@ -1254,3 +1254,19 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 
 **Work & Resources:**
 ![Docker Architecture](images/java-app-maven-docker.png)
+
+---
+
+# Day 56 - Jenkins and docker
+
+**Focus**: Kenjins, configuration, and docker
+
+**Progress**:
+
+- create docker account
+- Jenkins job that checkout java application, run test, build jar, build image, push image to docker
+
+**Thoughts**: Ran into a few issues configuring Jenkins credentials. Overall it was another successful learning.
+
+**Work & Resources:**
+![Docker Architecture](images/docker-push-to-nexus.png)
