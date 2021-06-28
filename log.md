@@ -1286,3 +1286,4 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 **Thoughts**: Another great learning today and fun working with jenkinsfile. It might be worth learning the Groovy programming language.
 
 **Work & Resources:**
+[Jenkins file and groovy](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/jenkins/jenkinsfile)
