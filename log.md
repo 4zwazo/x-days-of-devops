@@ -1270,3 +1270,19 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 
 **Work & Resources:**
 ![Docker Architecture](images/docker-push-to-nexus.png)
+
+---
+
+# Day 57 - Jenkins Pipeline
+
+**Focus**: Jenkinsfile, groovy script, and input parameter
+
+**Progress**:
+
+- create jenkins pipeline job
+- Jenkinsfile calling external groovy script
+- job simulates different build stages
+
+**Thoughts**: Another great learning today and fun working with jenkinsfile. It might be worth learning the Groovy programming language.
+
+**Work & Resources:**
