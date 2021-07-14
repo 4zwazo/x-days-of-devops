@@ -1288,3 +1288,22 @@ This lab has been simulated manually. No actual jenkins server was setup. It was
 **Work & Resources:**
 
 [Jenkins file and groovy](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/jenkins/jenkinsfile)
+
+
+---
+
+# Day 58 - Jenkins Pipeline
+
+**Focus**: troubleshooting pipeline issues
+
+**Progress**:
+
+- fixing
+- Jenkinsfile calling external groovy script
+- job simulates different build stages
+
+**Thoughts**: Another great learning today and fun working with jenkinsfile. It might be worth learning the Groovy programming language.
+
+**Work & Resources:**
+
+[Jenkins file and groovy](https://github.com/pascallaurent/x-days-of-devops/tree/main/resources/code/jenkins/jenkinsfile)
